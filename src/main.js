@@ -1,5 +1,6 @@
 import { createApp } from "vue";
 import "./style.css";
-import homeLanding from "./view/home/homeLanding.vue";
+import router from "./routes/routes";
+import App from "./App.vue";
 
-createApp(homeLanding).mount("#home-landing");
+createApp(App).use(router).mount("#app");

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "scanned_at": "2026-04-03T11:18:52.234Z",
+  "files": [
+    {
+      "path": "README.md",
+      "title": "Vue 3 + Vite",
+      "summary": "This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.h...",
+      "lines": 6,
+      "mtime": 1766549015804.83
+    }
+  ]
+}
