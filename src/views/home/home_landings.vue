@@ -464,11 +464,7 @@ const services = ref([
     name: "Systems Programming",
     tag: "Rust · CLI · TUI",
   },
-  {
-    icon: "⛓️",
-    name: "Blockchain / Web3",
-    tag: "Solidity · EVM · Go",
-  },
+  
   {
     icon: "🗄️",
     name: "Database Design",
