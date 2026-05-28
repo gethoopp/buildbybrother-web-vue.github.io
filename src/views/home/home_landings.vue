@@ -464,6 +464,12 @@ const services = ref([
     name: "Systems Programming",
     tag: "Rust · CLI · TUI",
   },
+
+  {
+    icon: "📱",
+    name: "Mobile Development",
+    tag: "Flutter · Dart",
+  },
   
   {
     icon: "🗄️",
